@@ -5,24 +5,23 @@ format: jb-book
 root: intro
 chapters:
 - file: Book/Mision_Vision
-- file: Book/QueNoEs
-- file: Book/Infraestructura
-- file: Book/QueNoEs
-- file: Book/FaseNo1
-- file: Book/FaseNo2
-- file: Book/Equipos
-- file: Book/Software
-- file: Book/Dispositivos
-- file: Book/Inversion
-- file: Book/MarcoConceptual
-- file: Book/IntegracionConGeografia
-- file: Book/LineasDeInvestigacion
-- file: Book/AspectosOperativos
-- file: Book/Impacto
-- file: Book/Confeencias
-- file: Book/Journals
-- file: Book/Convenios
-- file: Book/MujerCientifica
-- file: Book/CienciaAbierta
-- file: Book/Conclusiones
+# - file: Book/QueNoEs
+# - file: Book/Infraestructura
+# - file: Book/FaseNo1
+# - file: Book/FaseNo2
+# - file: Book/Equipos
+# - file: Book/Software
+# - file: Book/Dispositivos
+# - file: Book/Inversion
+# - file: Book/MarcoConceptual
+# - file: Book/IntegracionConGeografia
+# - file: Book/LineasDeInvestigacion
+# - file: Book/AspectosOperativos
+# - file: Book/Impacto
+# - file: Book/Confeencias
+# - file: Book/Journals
+# - file: Book/Convenios
+# - file: Book/MujerCientifica
+# - file: Book/CienciaAbierta
+# - file: Book/Conclusiones
 
