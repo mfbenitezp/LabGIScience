@@ -8,4 +8,11 @@ Ser un centro de investigación geográfica, con un enfoque multidisciplinario e
 
 ![](https://lh4.googleusercontent.com/CL8UIyd-sz_L8Eij8yYhcJUgKg8xVtLSjzYOXFlrVBOifTsc2TPo01muufZ7PwWtgBtLfn7wPx3N5wVaBb9YSD_UaqGMy9VW4f6rUeLAfzXowM0Pcp6lGpvMvynh-wbTjJ7gEO-t5Ms)
 
-Cita {cite}'FAZEY2020101724'.
+Cita: {cite}`FA1724`
+
+# **Objetivos**
+
+* Ser parte activa de la red de laboratorios de la sede de La Paz y contribuir para convertirlos como  centro de conocimiento y experimentación reconocido nacional  e internacionalmente por sus actividades educativas y de investigación multidisciplinar en el campo de la información geográfica. Músculo tecnológico del programa de Geografía.
+* Usar las soluciones espaciales para estudiar los problemas de ámbito global, nacional y regional.
+* Espacio de co-creación y pedagogía colaborativa (Multidisciplinaria) de la red de laboratorios en el uso de información geográfica.
+* Desarrollo de  capacidad instalada en ejecución e implementación de proyectos en dominios específicos, a nivel individual e institucional.
