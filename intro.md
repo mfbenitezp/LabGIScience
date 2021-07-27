@@ -1,6 +1,6 @@
 # Laboratorio de Ciencias de la Información Geográfica y Percepción Remota
 
-### Introducción
+## Introducción
 
 Este libro tiene como objeto describir las caracteristicas del laboratorio de ciencias de la informacion geografica de la sede de La Paz, de la Universidad Nacional de Colombia.
 

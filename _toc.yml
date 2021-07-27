@@ -5,9 +5,12 @@ format: jb-book
 root: intro
 chapters:
 - file: Book/Mision_Vision
-- file: Book/Objetivos
-- file: Book/QueNoEs
+#- file: Book/Objetivos
+#- file: Book/QueNoEs
 - file: Book/Infraestructura
+- file: Book/Referentes
+- file: Book/markdown
+- file: Book/notebooks
 # - file: Book/FaseNo1
 # - file: Book/FaseNo2
 # - file: Book/Equipos
