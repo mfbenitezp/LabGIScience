@@ -9,6 +9,7 @@ chapters:
 #- file: Book/QueNoEs
 - file: Book/Infraestructura
 - file: Book/Referentes
+- file: Book/Equipos
 - file: Book/markdown
 - file: Book/notebooks
 # - file: Book/FaseNo1
