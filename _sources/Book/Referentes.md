@@ -1,4 +1,6 @@
-# Referentes - ¿Quienes nos han inspirado?
+# Referentes
+
+## ¿Quienes nos han inspirado?
 
 1. Computer Clubhouse Network
 2. The Centre for Spatial Data Science - The University of Chicago
