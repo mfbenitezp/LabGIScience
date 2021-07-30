@@ -21,4 +21,4 @@ En este libro se describe, la mision o razon de ser propuesta para este laborato
 
 Este libro describe los elementos disenados en el marco del proyecto BPUN544, para el diseno e implementacion inicial del laboratorio de GIScience y esta desarrollado como un proyecto abierto que puede ser usado para compartir, mejorar y ajustar de acuerdo a las circustancias del labortaorios y del personal que liderara este espacio.
 
-Este libro es desarrollado por Fernando Benitez-Paez, si quiere mas informacion, sugerencias o correciones no dude en contactarme a [fbenitez@turing.ac.uk]()
+Este libro es desarrollado por Fernando Benitez-Paez, si quiere mas informacion, sugerencias o correciones no dude en contactarme a <fbenitez@turing.ac.uk>
